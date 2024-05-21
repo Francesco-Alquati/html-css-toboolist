@@ -38,7 +38,7 @@ h2{
     background-color: white;
 }
 .border-bottom{
-    border-bottom: 2px;
+    border-bottom: 2px solid rgb(244, 244, 244);
 }
 .label-square{
     font-size: 15px;
@@ -58,5 +58,35 @@ h2{
 .ml-30{
      margin-left: 30px;
 }
+/* lista non ordinata */
+.triangle{
+    list-style-type: '\25BE';
+    }
+.fontsize-25{
+    font-size: 25px;
+}
+.ml-80{
+    margin-left: 80px;
+}
+.py-20{
+    padding: 20px 0;
+}
+.py-10{
+    padding: 10px 0;
+}
+.px-5{
+    padding: 0px 5px;
+}
+.my-10{
+    margin: 10px 0px;
+}
+.my-5{
+    margin: 5px 0px;
+}
+.fontsize-20{
+    font-size: 20px;
+}
+
+
 
 
