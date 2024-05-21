@@ -3,9 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: rgb(244, 244, 244);
+}
 header{
    padding: 20px;
+   background-color: white;
 }
+/* logo e titolo  */
 .logo{
     height: 70px;
 }
@@ -15,6 +20,43 @@ header{
 .v-align-middle{
     vertical-align: middle;
 }
-h1{
+h2{
     font-size: 45px;
 }
+/* main  */
+.py-40{
+    padding: 40px 0;
+}
+.p-20{
+    padding: 20px;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.bg-white{
+    background-color: white;
+}
+.border-bottom{
+    border-bottom: 2px;
+}
+.label-square{
+    font-size: 15px;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: 1px solid;
+}
+.bg-lblue{
+    background-color: rgb(11, 152, 198);
+}
+.lgrey{
+    color: lightgray;
+}
+.white{
+    color: white;
+}
+.ml-30{
+     margin-left: 30px;
+}
+
+
