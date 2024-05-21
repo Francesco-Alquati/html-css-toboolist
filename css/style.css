@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+   padding: 20px;
+}
+.logo{
+    height: 70px;
+}
+.d-inline-block{
+    display: inline-block;
+}
+.v-align-middle{
+    vertical-align: middle;
+}
+h1{
+    font-size: 45px;
+}
