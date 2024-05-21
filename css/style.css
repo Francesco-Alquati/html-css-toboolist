@@ -24,12 +24,13 @@ h2{
     font-size: 45px;
 }
 /* main  */
-.py-40{
+main{
     padding: 40px 0;
 }
 .p-20{
     padding: 20px;
 }
+/* contenitore centrale  */
 .container{
     width: 1200px;
     margin: 0 auto;
@@ -47,7 +48,7 @@ h2{
     border: 1px solid;
 }
 .bg-lblue{
-    background-color: rgb(11, 152, 198);
+    background-color: rgb(11, 181, 224);
 }
 .lgrey{
     color: lightgray;
@@ -68,6 +69,7 @@ ul {
 .py-20{
     padding: 20px 0;
 }
+/* list item  */
 .li-secondari{
     padding: 0px 5px;
     margin: 15px 0px;
@@ -78,6 +80,7 @@ ul {
     margin: 5px 0px;
     font-size: 25px;
 }
+/* entities della lista */
 .spunta{
     font-size: 12px;
     padding: 1px 4px;
@@ -97,6 +100,29 @@ ul {
     color: red;
     border-radius: 50%;
     margin-right: 10px;
+}
+/* label della lista  */
+.label-round{
+    font-size: 13px;
+    padding: 5px 12px;
+    border-radius: 30px;
+    border: 1px solid;
+    margin-left: 5px;
+}
+.bg-purple{
+    background-color: rgb(139, 91, 188);
+}
+.bg-watergreen{
+    background-color: rgb(26, 190, 121);
+}
+.bg-orange{
+    background-color: orange;
+}
+.bg-fuchsia{
+    background-color: rgb(216, 75, 198);
+}
+.bg-lgreen{
+    background-color: rgb(107, 179, 53);
 }
 
 
