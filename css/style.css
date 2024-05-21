@@ -59,9 +59,9 @@ h2{
      margin-left: 30px;
 }
 /* lista non ordinata */
-.triangle{
-    list-style-type: '\25BE';
-    }
+ul {
+    list-style-type: none;
+    }    
 .fontsize-25{
     font-size: 25px;
 }
@@ -71,22 +71,15 @@ h2{
 .py-20{
     padding: 20px 0;
 }
-.py-10{
-    padding: 10px 0;
-}
-.px-5{
+.li-secondari{
     padding: 0px 5px;
-}
-.my-10{
-    margin: 10px 0px;
-}
-.my-5{
-    margin: 5px 0px;
-}
-.fontsize-20{
+    margin: 15px 0px;
     font-size: 20px;
 }
-
+.li-principali{
+    padding: 10px 0;
+    margin: 5px 0px;
+}
 
 
 
