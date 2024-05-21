@@ -62,9 +62,6 @@ h2{
 ul {
     list-style-type: none;
     }    
-.fontsize-25{
-    font-size: 25px;
-}
 .ml-80{
     margin-left: 80px;
 }
@@ -79,7 +76,29 @@ ul {
 .li-principali{
     padding: 10px 0;
     margin: 5px 0px;
+    font-size: 25px;
 }
+.spunta{
+    font-size: 12px;
+    padding: 1px 4px;
+    color: rgb(52, 176, 52);
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.green{
+    border: 1px solid rgb(72, 195, 72);
+}
+.red{
+    border: 1px solid red;
+}
+.ics{
+    font-size: 12px;
+    padding: 1px 5px;
+    color: red;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
 
 
 
