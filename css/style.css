@@ -33,7 +33,7 @@ main{
 }
 /* contenitore centrale  */
 .container{
-    width: 1200px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 .bg-white{
@@ -42,6 +42,7 @@ main{
 .border-bottom{
     border-bottom: 2px solid rgb(244, 244, 244);
 }
+/* bottoni top div  */
 .label-square{
     font-size: 15px;
     padding: 5px 15px;
@@ -71,18 +72,18 @@ ul {
     padding: 20px 0;
 }
 /* list item  */
-.li-secondari{
+.sub-li{
     padding: 0px 5px;
     margin: 15px 0px;
     font-size: 20px;
 }
-.li-principali{
+.title-li{
     padding: 10px 0;
     margin: 5px 0px;
     font-size: 25px;
 }
 /* entities della lista */
-.spunta{
+.checkmark{
     font-size: 12px;
     padding: 1px 4px;
     color: rgb(52, 176, 52);
@@ -95,7 +96,7 @@ ul {
 .red{
     border: 1px solid red;
 }
-.ics{
+.checkmark-x{
     font-size: 12px;
     padding: 1px 5px;
     color: red;
